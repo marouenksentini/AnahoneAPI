@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnahoneAPI", "AnahoneAPI\AnahoneAPI.csproj", "{ADD75A09-DE0B-4B5D-BD0C-3A33557586EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADD75A09-DE0B-4B5D-BD0C-3A33557586EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADD75A09-DE0B-4B5D-BD0C-3A33557586EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADD75A09-DE0B-4B5D-BD0C-3A33557586EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADD75A09-DE0B-4B5D-BD0C-3A33557586EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4539CD9E-3B4C-4B25-95A5-0E08FFD6FECA}
+	EndGlobalSection
+EndGlobal
